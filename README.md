@@ -1,4 +1,4 @@
-# Nexflow_project
+# Nexflow assembly workslow
 Trimming and assembly
 
 # Nextflow script name
